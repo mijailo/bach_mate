@@ -1,0 +1,129 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage[margin=2.5cm]{geometry}
+
+\usepackage{amsthm}
+\pagenumbering{gobble}
+
+\begin{document}
+
+	\begin{center}
+				\textbf{Matemáticas VI}\\
+				Guía 2 \\
+				Prof. Manuel Mijaíl Martínez Ramos
+				\bigskip
+	\end{center}
+	
+\paragraph*{Preámbulos} Esta guía sirve para preparar el segundo examen del curso, a aplicarse el martes 5 de noviembre en el horario de clase. Además, es un requisito para presentarlo; \textbf{se entrega en parejas o ternas}.
+Pueden consultar los siguientes libros (disponibles en \textit{Classroom}):
+
+	\begin{itemize}
+		\item F. H. C. Marriott. \textit{Basic Mathematics for the Biological and Social Sciences}. \textit{(Capítulos I y IV)}.
+		\item R. A. Kalnin. \textit{Álgebra y funciones elementales}. \textit{(Capítulo XVI)}.
+	\end{itemize}
+También pueden preguntarme.
+	\begin{enumerate}
+
+		\item Escribe la siguiente expresión de forma expandida:
+			
+			\[ \sum_{r=0}^5 \frac{x^r}{r!} \]
+¿Qué número resulta al hacer la sustitución $x=1$?
+
+		\item Esboza la gráfica de las siguientes funciones:
+		
+				\begin{enumerate}
+					\item $f(x)=C$, donde $C\in\mathbb{R}$ es un número fijo (\textit{función constante}).
+					\item $f(x)=x^{\alpha}$, donde $\alpha\in\mathbb{R}$ es un número fijo (\textit{función potencial}).
+					\item $f(x)=a^x$, donde $a>0$ pero $a\neq 1$ (\textit{función exponencial}).
+					\item $f(x)=\log_{a}(x)$, donde $a>0$ pero $a\neq 1$ (\textit{función logarítmica}).
+					\item $f(x)\in\{\sin(x),\cos(x),\tan(x),\cot(x),\sec(x),\csc(x)\}$ (\textit{funciones trigonométricas}).
+					\item $f(x)\in\{\arcsin(x),\arccos(x),\arctan(x),\textrm{arc cot}(x),\textrm{arc sec}(x),\textrm{arc csc}(x),\}$ (\textit{funciones trigonométricas inversas}).
+				\end{enumerate}
+Puedes usar \textit{Geogebra}, pero haz los dibujos a mano.
+				
+		\item ¿De qué manera se traslada horizontalmente la gráfica de una función? ¿Y de qué manera se traslada verticalmente?
+
+		\item Expande $\left(2x+3\right)^3$ con el teorema del binomio y verifica tu resultado mediante multiplicación directa (es decir, $(2x+3)\times(2x+3)\times(2x+3)$).
+		
+		\item Una cierta cantidad de dinero se invierte con una tasa anual de interés compuesto del 2\%, por un lapso de 10 años. Muestra, a partir del teorema del binomio, que la inversión se incrementa en un factor de $1.2190$, y verifica este resultado mediante logaritmos. (\textit{Hint: Cuando $x$ es un número pequeño (positivo pero mucho menor que $1$), entonces $x\gg x^2\gg x^3 \gg\cdots\gg x^n\approx 0$ cuando $n$ es suficientemente grande}).
+		
+		\item Expresa el área de un triángulo rectángulo de hipotenusa constante, igual a $c>0$, como función de \textit{uno} de los ángulos agudos internos $\alpha$. ¿Cuál es el ángulo que produce el triángulo con la máxima área posible?
+		
+		\item Si $n\geq 1$ es un número natural, ¿cuánto vale la siguiente suma?
+		
+			\[ 1+\frac{n}{n+1}+\left(\frac{n}{n+1}\right)^2+\left(\frac{n}{n+1}\right)^3+\cdots
+				= \sum_{k=0}^{\infty} \left(\frac{n}{n+1}\right)^k \]
+(\textit{Hint: Recuerda cuál es la serie geométrica.}). ¿Qué pasa con este resultado a medida que $n\longrightarrow\infty$?
+
+		\item Considera la progresión aritmética:
+		
+			\[a_n=5n-2\]
+¿Cuánto vale $a_{50}+\cdots+a_{100}$?
+
+		\item ¿Cuál es la diferencia entre sucesión, progresión y serie?
+		
+		\item Dada la función $f(x)=\frac{1}{x^2+1}$, calcula:
+		
+			\begin{multicols}{3}
+				\begin{itemize}
+					\item $f(0)$
+					\item $f(-2)$
+					\item $\frac{1}{f(1)}$
+					\item $f^2(1)$
+					\item $\left(1+f(1)\right)^2$
+					\item $\log_{5/4} f\left(\frac{1}{2}\right)$
+				\end{itemize}
+			\end{multicols}
+		
+		\item Halla los límites de las siguientes sucesiones:
+		
+			\begin{multicols}{3}
+				\begin{itemize}
+					\item[] $$\lim_{n\to\infty}\frac{1+2+\cdots +n}{n^2}$$
+					\item[] $$\lim_{n\to\infty}\frac{3n-1}{n+2}$$
+					\item[] $$\lim_{n\to\infty}\frac{n^2-2}{n^3+1}$$
+				\end{itemize}
+			\end{multicols}
+Para cada sucesión $f(n)$ en los límites anteriores, ¿cuál es la mínima $N\in\mathbb{N}$ a partir de la cual la distancia de $f(N+1), f(N+2), f(N+3), \dots$ a su límite es menor a $\varepsilon=10^{-6}$?
+
+		\item En la sección 4.5 del libro  \textit{Basic Mathematics for the Biological and Social Sciences} de F. H. C. Marriott, se discute la importancia de los límites en las ciencias biológicas y sociales. Describe en un párrafo dicha importancia y discute su aplicación a la \textit{función de crecimiento logístico}.
+	
+		\item La explosión en 1986 de la planta de energía nuclear Chernóbil (antigua URSS) liberó alrededor de $1000$ kg de cesio-137 a la atmósfera. La fórmula:
+		
+			\[ f(x)=1000 \cdot (0.5)^{\frac{x}{30}} \]
+	
+describe la cantidad $f(x)$ (en kilogramos) de material radiactivo restante en la atmósfera de la ciudad tras $x$ años a partir de 1986. Incluso si quedaran $100$ kg, Chernóbil seguiría siendo considerada inhabitable. ¿Sería seguro vivir en Chernóbil en el 2066? ¿En qué año restarían sólo $20$ kg de cesio-137 en su atmósfera? ¿Qué tiempo debe pasar para que sólo quede $1$ kg?
+
+		\item Cuando el interés compuesto es pagado $n\in\mathbb{N}$ veces al año (llamados los $n$ \textit{períodos de capitalización}), con tasa de interés anual $r\in[0,1]$, el balance $P$ tras $t$ años está dado por la fórmula:
+		
+			\[P(t)=P_0 \left( 1+\frac{r}{n} \right)^{nt}\]
+donde $P_0$ es el capital inicial o \textit{principal}.
+	Si quieres invertir \$MXN $150,000$ en 6 años, ¿qué cuenta de inversión te conviene más? 
+		\begin{enumerate}
+			\item Una que paga $7\%$ anual, con composición mensual.
+			\item Una que paga $6.85\%$ anual, con composición semanal.
+		\end{enumerate}
+\textbf{Demuestra tu resultado de forma cuantitativa.}
+		
+		\item Explica cuál es la relación entre el interés compuesto, el siguiente límite:
+		
+			\[\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n=e^x\]
+y la fórmula de interés compuesto continuo:
+			
+			\[P(t)=P_0 e^{rt}\]
+			
+		\item Demuestra la siguiente fórmula:
+		
+			\[\forall a,b\in\left(0,1\right)\cup(1,\infty), \; \forall x\in\mathbb{R}:\hspace{3mm} a^x=b^{x\cdot\log_{b}(a)}\]
+
+Usa esta fórmula para estimar cuántos ceros a la izquierda tiene el número $3^{-12}$. ¿Por qué se excluyen los casos $a,b=1$?
+
+	\end{enumerate}
+
+\end{document}
