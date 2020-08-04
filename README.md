@@ -1,1 +1,11 @@
 # bach_mate
+
+Este repositorio tiene la finalidad de compartir con la comunidad de profesores matemáticas de la Escuela Nacional Preparatoria Plantel 5, de la Universidad Nacional Autónoma de México, algunos recursos didácticos.
+
+## Plantilla para tareas
+
+En este directorio hay una plantilla de TeX con la que se puede escribir una tarea con símbolos y fórmulas matemáticas. Se puede compilar con PDFLaTeX para producir un PDF.
+
+## Notebooks de Jupyter
+
+En esta carpeta hay algunos prototipos de _Notebooks_ de [Jupyter](https://jupyter.org), enfocados a la elaboración y presentación de secuencias didácticas de matemáticas.
