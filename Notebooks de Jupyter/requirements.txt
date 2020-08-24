@@ -12,3 +12,9 @@ pandas==1.0.4
 pyparsing==2.4.7          # via matplotlib
 python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.1              # via pandas
+scipy==2020.1			  # para modulos de estadistica
+
+#Comprobar estos (23ago2020):
+gmpy==2-2.1
+mpmath==1.1.0
+sympy==1.6.2
