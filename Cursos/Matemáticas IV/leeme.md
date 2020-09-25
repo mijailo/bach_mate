@@ -19,7 +19,7 @@ Las unidades en que se divide el temario son:
 
 1. Los números reales para contar, comparar y medir _(25 horas)._ 
 2. Expresiones algebraicas para describir y generalizar _(30 horas)._ 
-3. Ecuacioens de primer y segundo grado para modelar condiciones específicas en una función _(40 horas)._ 
+3. Ecuaciones de primer y segundo grado para modelar condiciones específicas en una función _(40 horas)._ 
 4. Sistemas de ecuaciones para modelar condiciones simultáneas _(25 horas)._ 
 5. Inecuaciones para modelar restricciones _(30 horas)._ 
 
