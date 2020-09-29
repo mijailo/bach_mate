@@ -1,10 +1,10 @@
 # Planes de estudio vigentes
 
-Los planes de estudio puede encontrarse en [esta](http://www.dgenp.unam.mx/planesdeestudio/cuarto-2016.html) página. Son vigentes desde 2016.
+Los planes de estudio puede encontrarse en **[esta](http://www.dgenp.unam.mx/planesdeestudio/cuarto-2016.html)** página. Son vigentes desde 2016.
 
 ## Matemáticas IV
 
-En el caso de la asignatura de (Matemáticas IV)[http://www.dgenp.unam.mx/planesdeestudio/cuarto-2016/1400_matematicas_4.pdf], pueden distinguirse cuatro ejes fundamentales para el desarrollo de las capacidades de los alumnos: 
+En el caso de la asignatura de **[Matemáticas IV](http://www.dgenp.unam.mx/planesdeestudio/cuarto-2016/1400_matematicas_4.pdf)**, pueden distinguirse cuatro ejes fundamentales para el desarrollo de las capacidades de los alumnos: 
 
 1. Abstracción. 
 2. Generalización. 
@@ -31,4 +31,4 @@ A su vez, cada unidad se subdivide en tres categorías, de acuerdo con el tipo d
 
 ### Calendario
 
-El calendario 2020-2021 se puede ver [aquí](http://dgenp.unam.mx/calendarios/2021/calendarioE2020_21.pdf).
+El calendario 2020-2021 se puede ver **[aquí](http://dgenp.unam.mx/calendarios/2021/calendarioE2020_21.pdf)**.
