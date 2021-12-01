@@ -11,7 +11,7 @@ Este repositorio tiene la finalidad de compartir con la comunidad de profesores 
 
 > Ver [esta](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md) referencia.
 
-Para poder acceder a una serie de cuadernillos de Jupyter, es necesario darle click al botoncito ![Binder](https://mybinder.org/badge_logo.svg) y esperar un poquito. Mientras tanto, [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) (el _backend_ de Binder) estará:
+Para poder acceder a una serie de cuadernillos de Jupyter, es necesario darle click al botoncito ![Binder](https://mybinder.org/badge_logo.svg) de arribita y esperar una poquita. Mientras tanto, [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) (el _backend_ de Binder) estará:
 
 - Recolectando el contenido de este repositorio de GitHub.
 - Analizando ese contenido.
