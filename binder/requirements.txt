@@ -1,5 +1,5 @@
-matplotlib==3.2.1			  # grafiquitas veah!!
-numpy==1.18.5			  # para shit numerica
-pandas==1.0.4			  # para tablitas cool
-scipy==1.6.1			  # para modulos de estadistica
-sympy==1.7.1			  # para calculo simbolico
+matplotlib>=3.5.0			  # grafiquitas veah!!
+numpy>=1.22.0			  # para shit numerica
+pandas>=1.3.4			  # para tablitas cool
+scipy>=1.7.3			  # para modulos de estadistica
+sympy>=1.7.1			  # para calculo simbolico
