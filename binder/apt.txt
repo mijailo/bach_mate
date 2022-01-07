@@ -1,2 +1,3 @@
 pandoc
 texlive-xetex
+texlive-generic-extra
