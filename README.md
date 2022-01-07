@@ -28,5 +28,5 @@ En esta carpeta hay material didáctico para estudiantes de Matemáticas IV, V y
 
 En esta carpeta hay:
 
-* Algunos prototipos de _notebooks_ de [Jupyter](https://jupyter.org), enfocados a la elaboración y presentación de secuencias didácticas de matemáticas. Estos _notebooks_ se encuentran en la carpeta `Secuencias didácticas` y `Cursos`.
+* Algunos prototipos de _notebooks_ de [Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/), enfocados a la elaboración y presentación de secuencias didácticas de matemáticas. Estos _notebooks_ se encuentran en la carpeta `Secuencias didácticas` y `Cursos`.
 * Plantillas de [![Latex](https://wikimedia.org/api/rest_v1/media/math/render/svg/45c5b62b0f454f4ed8caa486d6d3cd0e0c065232)](https://es.wikipedia.org/wiki/TeX), con la que se puede escribir una tarea con símbolos y fórmulas matemáticas. Se puede compilar con [PDFLaTeX](https://miktex.org/) para producir un archivo con formato `PDF`.
