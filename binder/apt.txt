@@ -1,13 +1,13 @@
-pandoc
-dvipng
-ghostscript
+--no-install-recommends pandoc
+--no-install-recommends dvipng
+--no-install-recommends ghostscript
 --no-install-recommends texlive-fonts-recommended
 --no-install-recommends texlive-generic-extra
 --no-install-recommends texlive-generic-recommended
 --no-install-recommends texlive-latex-base
 --no-install-recommends texlive-latex-extra
-texlive-latex-recommended
-texlive-publishers
-texlive-science
-texlive-xetex
-cm-super
+--no-install-recommends texlive-latex-recommended
+--no-install-recommends texlive-publishers
+--no-install-recommends texlive-science
+--no-install-recommends texlive-xetex
+--no-install-recommends cm-super
